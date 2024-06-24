@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2fnkN3LJzY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\password\\password\\password.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kavin\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
